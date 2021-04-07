@@ -1,4 +1,4 @@
 export interface PodiumAvatarProps {
   avatarType: string;
-  avatarImg: string;
+  avatarImg: any | string;
 }
